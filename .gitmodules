@@ -5,3 +5,6 @@
 [submodule "fastkqr"]
 	path = fastkqr
 	url = https://github.com/cran/fastkqr
+[submodule "hdqr"]
+	path = hdqr
+	url = https://github.com/cran/hdqr
