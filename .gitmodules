@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SAFEPG"]
+	path = SAFEPG
+	url = https://github.com/cran/SAFEPG
 [submodule "fastkqr"]
 	path = fastkqr
 	url = https://github.com/cran/fastkqr
